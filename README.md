@@ -1,8 +1,8 @@
-## Hi there 👋
+## Hey, I'm Nathan 👋
+I like programing, recently got into using java, I enjoy all aspects of Computer Science and want to branch out to learn as much as I can.
 
+Want to get in touch? Email me at nholmquig@mail.umw.edu
 
-- 🔭 I’m currently working on a game built in Unity
-- 🌱 I’m currently learning OOP and design at my University
-- 📫 How to reach me: Email me at nholmqui@mail.umw.edu
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=natewong1313)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nathan-Holmquist)](https://github.com/anuraghazra/github-readme-stats)
+My Skills
