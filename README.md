@@ -5,4 +5,4 @@ I am currently working on an app for the apple app store.
 ## Want to get in touch?
 Email me at nholmquist50@gmail.com
 ## My Skills
-[![My Skills](https://skillicons.dev/icons?i=java,py,git,ubuntu)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,py,git,linux,cpp,react,typescript,firebase,arduino&perline=3)](https://skillicons.dev)
